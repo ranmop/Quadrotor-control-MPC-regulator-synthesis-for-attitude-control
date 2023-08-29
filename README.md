@@ -1,0 +1,1 @@
+# Quadrotor-control-MPC-regulator-synthesis-for-attitude-control
